@@ -811,7 +811,7 @@ header.Two h2 {
 
 .vt-entier{
     width: 100%;
-    min-height: 140vh;           /* pour avoir au moins la hauteur de l'écran */
+    min-height: 160vh;           /* pour avoir au moins la hauteur de l'écran */
     padding-top: 26px;           /* padding réduit, au choix */
     padding-bottom: 40px;
 }
